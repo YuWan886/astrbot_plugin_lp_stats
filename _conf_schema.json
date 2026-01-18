@@ -1,0 +1,14 @@
+{
+  "scoreboard_dat_path": {
+    "description": "scoreboard.dat 文件路径",
+    "type": "string",
+    "hint": "Minecraft 服务器 scoreboard.dat 文件的完整路径",
+    "default": "E:\\群组\\1.21.11-幸运之柱\\world\\data\\scoreboard.dat"
+  },
+  "query_interval": {
+    "description": "数据查询间隔（秒）",
+    "type": "int",
+    "hint": "检查 scoreboard.dat 文件更新并重新解析的时间间隔，单位为秒",
+    "default": 60
+  }
+}

@@ -1,0 +1,5746 @@
+{
+  "Muzilengluo": [
+    {
+      "Objective": "Music",
+      "Score": 1
+    },
+    {
+      "Objective": "TriggerSetting.GameMode"
+    },
+    {
+      "Objective": "Enchant.wind_brust_plus_cooldown"
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 351
+    }
+  ],
+  "Lylighte_": [
+    {
+      "Objective": "TriggerSetting.GameMode"
+    },
+    {
+      "Objective": "Enchant.wind_brust_plus_cooldown"
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "PlayTime.Min",
+      "Score": 30
+    },
+    {
+      "Objective": "KilledCount",
+      "Score": 11
+    },
+    {
+      "Objective": "DeathCheck",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 344
+    },
+    {
+      "Objective": "Music",
+      "Score": 4
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 17
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 10
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 12
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "WinCount",
+      "Score": 8
+    },
+    {
+      "Objective": "Used.ender_dragon_spawn_egg"
+    }
+  ],
+  "ssssfd": [
+    {
+      "Objective": "Music",
+      "Score": 2
+    },
+    {
+      "Objective": "TriggerSetting.GameMode"
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "PlayTime.Min",
+      "Score": 4
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 3
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 3
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 41
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 276
+    }
+  ],
+  "Mayro_Neko": [
+    {
+      "Objective": "TriggerSetting.GameMode"
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "PlayTime.Min",
+      "Score": 39
+    },
+    {
+      "Objective": "KilledCount",
+      "Score": 19
+    },
+    {
+      "Objective": "TeamNumber",
+      "Score": 1
+    },
+    {
+      "Objective": "Used.fox_spawn_egg"
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "GameID",
+      "Score": 273
+    },
+    {
+      "Objective": "PlayTime.Hour",
+      "Score": 1
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 52
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 40
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 45
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "Used.wolf_spawn_egg"
+    },
+    {
+      "Objective": "WinCount",
+      "Score": 12
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    }
+  ],
+  "Trunppa": [
+    {
+      "Objective": "Music",
+      "Score": 1
+    },
+    {
+      "Objective": "TriggerSetting.GameMode"
+    },
+    {
+      "Objective": "Enchant.wind_brust_plus_cooldown"
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "PlayTime.Min",
+      "Score": 8
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 9
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 10
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 27
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 347
+    }
+  ],
+  "2=": [
+    {
+      "Objective": "aj.i",
+      "Score": 148
+    }
+  ],
+  "5": [
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 43
+    },
+    {
+      "Objective": "Number",
+      "Score": 8
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 79
+    }
+  ],
+  "$2": [
+    {
+      "Objective": "math",
+      "Score": 2
+    }
+  ],
+  "asasas000": [
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 181
+    }
+  ],
+  "kongxv_ge": [
+    {
+      "Objective": "WinCount",
+      "Score": 3
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "PlayTime.Min",
+      "Score": 25
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 16
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 15
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 25
+    },
+    {
+      "Objective": "Number",
+      "Score": 5
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "KilledCount",
+      "Score": 4
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "Used.ender_dragon_spawn_egg"
+    },
+    {
+      "Objective": "GameID",
+      "Score": 190
+    }
+  ],
+  "dyingend": [
+    {
+      "Objective": "Music",
+      "Score": 4
+    },
+    {
+      "Objective": "TriggerSetting.GameMode"
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "PlayTime.Min",
+      "Score": 7
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 4
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 4
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 52
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 330
+    }
+  ],
+  "7Yuan7": [
+    {
+      "Objective": "TriggerSetting.GameMode"
+    },
+    {
+      "Objective": "Enchant.wind_brust_plus_cooldown"
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 349
+    }
+  ],
+  "baixingstr": [
+    {
+      "Objective": "TriggerSetting.GameMode"
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "PlayTime.Min",
+      "Score": 5
+    },
+    {
+      "Objective": "KilledCount",
+      "Score": 6
+    },
+    {
+      "Objective": "TeamNumber",
+      "Score": 1
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "GameID",
+      "Score": 327
+    },
+    {
+      "Objective": "Music",
+      "Score": 1
+    },
+    {
+      "Objective": "PlayTime.Hour",
+      "Score": 1
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 43
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 37
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 22
+    },
+    {
+      "Objective": "Number",
+      "Score": 3
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "Used.wolf_spawn_egg"
+    },
+    {
+      "Objective": "WinCount",
+      "Score": 7
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    }
+  ],
+  "BingHuoX": [
+    {
+      "Objective": "PlayTime.Hour",
+      "Score": 1
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "HP",
+      "Score": 19
+    },
+    {
+      "Objective": "PlayTime.Min",
+      "Score": 49
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 54
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 53
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 14
+    },
+    {
+      "Objective": "Number",
+      "Score": 2
+    },
+    {
+      "Objective": "KilledCount",
+      "Score": 10
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "WinCount",
+      "Score": 5
+    }
+  ],
+  "XuetiaoG": [
+    {
+      "Objective": "TriggerSetting.GameMode"
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "PlayTime.Min",
+      "Score": 4
+    },
+    {
+      "Objective": "KilledCount",
+      "Score": 44
+    },
+    {
+      "Objective": "TeamNumber",
+      "Score": 1
+    },
+    {
+      "Objective": "Used.fox_spawn_egg"
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "GameID",
+      "Score": 273
+    },
+    {
+      "Objective": "PlayTime.Hour",
+      "Score": 4
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 161
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 176
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 5
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "Used.wolf_spawn_egg"
+    },
+    {
+      "Objective": "WinCount",
+      "Score": 27
+    },
+    {
+      "Objective": "Used.ender_dragon_spawn_egg"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    }
+  ],
+  "%side_readyplayer_count%": [
+    {
+      "Objective": "side",
+      "Score": 6,
+      "display": {
+        "extra": [
+          {
+            "": "准备人数："
+          },
+          {
+            "color": "green",
+            "text": "1",
+            "bold": 1
+          }
+        ],
+        "text": ""
+      }
+    }
+  ],
+  "efsdw": [
+    {
+      "Objective": "TriggerSetting.GameMode"
+    },
+    {
+      "Objective": "Enchant.wind_brust_plus_cooldown"
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "PlayTime.Min",
+      "Score": 17
+    },
+    {
+      "Objective": "KilledCount",
+      "Score": 2
+    },
+    {
+      "Objective": "DeathCheck",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 349
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 10
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 8
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 16
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "WinCount",
+      "Score": 2
+    }
+  ],
+  "star_skys": [
+    {
+      "Objective": "TriggerSetting.GameMode"
+    },
+    {
+      "Objective": "Enchant.wind_brust_plus_cooldown"
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "PlayTime.Min",
+      "Score": 20
+    },
+    {
+      "Objective": "YanPai",
+      "Score": 2
+    },
+    {
+      "Objective": "KilledCount",
+      "Score": 4
+    },
+    {
+      "Objective": "TeamNumber",
+      "Score": 2
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "GameID",
+      "Score": 345
+    },
+    {
+      "Objective": "Music",
+      "Score": 3
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 15
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 12
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 2
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "Used.wolf_spawn_egg"
+    },
+    {
+      "Objective": "WinCount",
+      "Score": 3
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    }
+  ],
+  "Rachel521": [
+    {
+      "Objective": "PlayTime.Hour",
+      "Score": 1
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "PlayTime.Min",
+      "Score": 54
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 49
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 47
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 19
+    },
+    {
+      "Objective": "Number",
+      "Score": 2
+    },
+    {
+      "Objective": "KilledCount",
+      "Score": 8
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "Used.fox_spawn_egg"
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "WinCount",
+      "Score": 6
+    },
+    {
+      "Objective": "GameID",
+      "Score": 21
+    }
+  ],
+  "$100": [
+    {
+      "Objective": "math",
+      "Score": 100
+    }
+  ],
+  "%side_settings_rule%": [
+    {
+      "Objective": "side",
+      "Score": 4,
+      "display": {
+        "extra": [
+          {
+            "": "当前规则："
+          },
+          {
+            "color": "light_purple",
+            "text": "虚空的仁慈",
+            "bold": 1
+          }
+        ],
+        "text": ""
+      }
+    }
+  ],
+  "ChikenIBoy": [
+    {
+      "Objective": "Enchant.wind_brust_plus_cooldown"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 351
+    }
+  ],
+  "luguodeqisi": [
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "PlayTime.Min",
+      "Score": 11
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 8
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 8
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 26
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "KilledCount",
+      "Score": 1
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "WinCount",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 194
+    }
+  ],
+  "love206710": [
+    {
+      "Objective": "TriggerSetting.GameMode"
+    },
+    {
+      "Objective": "Enchant.wind_brust_plus_cooldown"
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 351
+    }
+  ],
+  "a63ae528-7e66-4ab8-9347-91a83833e147": [
+    {
+      "Objective": "aj.id",
+      "Score": 546
+    }
+  ],
+  "Alex": [
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "PlayTime.Min",
+      "Score": 7
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 7
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 48
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "WinCount",
+      "Score": 7
+    },
+    {
+      "Objective": "GameID",
+      "Score": 119
+    }
+  ],
+  "moyanxiao277": [
+    {
+      "Objective": "TriggerSetting.GameMode"
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 244
+    }
+  ],
+  "CheeryXi": [
+    {
+      "Objective": "Music",
+      "Score": 4
+    },
+    {
+      "Objective": "TriggerSetting.GameMode"
+    },
+    {
+      "Objective": "Enchant.wind_brust_plus_cooldown"
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "PlayTime.Min",
+      "Score": 1
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 1
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 1
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 351
+    }
+  ],
+  "BOMBY5129": [
+    {
+      "Objective": "TriggerSetting.GameMode"
+    },
+    {
+      "Objective": "Enchant.wind_brust_plus_cooldown"
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 349
+    }
+  ],
+  "$20": [
+    {
+      "Objective": "math",
+      "Score": 20
+    }
+  ],
+  "angeng233": [
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 18
+    },
+    {
+      "Objective": "Number",
+      "Score": 2
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "WinCount",
+      "Score": 3
+    }
+  ],
+  "Karasuma_Renya": [
+    {
+      "Objective": "Enchant.wind_brust_plus_cooldown"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 351
+    }
+  ],
+  "YanYan_QAQ": [
+    {
+      "Objective": "Enchant.wind_brust_plus_cooldown"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 351
+    }
+  ],
+  "Tianxiao123": [
+    {
+      "Objective": "TriggerSetting.GameMode"
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "PlayTime.Min",
+      "Score": 39
+    },
+    {
+      "Objective": "KilledCount",
+      "Score": 28
+    },
+    {
+      "Objective": "TeamNumber",
+      "Score": 3
+    },
+    {
+      "Objective": "Used.fox_spawn_egg"
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "GameID",
+      "Score": 273
+    },
+    {
+      "Objective": "PlayTime.Hour",
+      "Score": 1
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 43
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 41
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 28
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "Used.wolf_spawn_egg"
+    },
+    {
+      "Objective": "WinCount",
+      "Score": 12
+    },
+    {
+      "Objective": "Used.ender_dragon_spawn_egg"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    }
+  ],
+  "bgfbnfgh": [
+    {
+      "Objective": "Music",
+      "Score": 2
+    },
+    {
+      "Objective": "TriggerSetting.GameMode"
+    },
+    {
+      "Objective": "Enchant.wind_brust_plus_cooldown"
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "PlayTime.Min",
+      "Score": 1
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 1
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 1
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 32
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 351
+    }
+  ],
+  "HashBrown0v0": [
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "PlayTime.Min",
+      "Score": 45
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 27
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 16
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 28
+    },
+    {
+      "Objective": "Number",
+      "Score": 2
+    },
+    {
+      "Objective": "KilledCount",
+      "Score": 8
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "Used.fox_spawn_egg"
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "WinCount",
+      "Score": 12
+    },
+    {
+      "Objective": "Used.ender_dragon_spawn_egg"
+    }
+  ],
+  "TheXiaoYu0v0_": [
+    {
+      "Objective": "TriggerSetting.GameMode"
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "PlayTime.Min",
+      "Score": 40
+    },
+    {
+      "Objective": "KilledCount",
+      "Score": 82
+    },
+    {
+      "Objective": "TeamNumber",
+      "Score": 1
+    },
+    {
+      "Objective": "Used.fox_spawn_egg"
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "GameID",
+      "Score": 238
+    },
+    {
+      "Objective": "PlayTime.Hour",
+      "Score": 5
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 131
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 98
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 17
+    },
+    {
+      "Objective": "Number",
+      "Score": 5
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "Used.wolf_spawn_egg"
+    },
+    {
+      "Objective": "WinCount",
+      "Score": 35
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    }
+  ],
+  "%side_release_time%": [
+    {
+      "Objective": "side",
+      "display": {
+        "color": "#1BF169",
+        "extra": [
+          "2026.01.15",
+          " -----"
+        ],
+        "text": "----- "
+      }
+    }
+  ],
+  "gaoyd325": [
+    {
+      "Objective": "Enchant.wind_brust_plus_cooldown"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 351
+    }
+  ],
+  "6": [
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 1
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 50
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "WinCount",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 80
+    }
+  ],
+  "WJiajunW": [
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "PlayTime.Min",
+      "Score": 3
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 4
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 3
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 46
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "WinCount",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 194
+    }
+  ],
+  "baokaixin": [
+    {
+      "Objective": "PlayTime.Hour",
+      "Score": 1
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "PlayTime.Min",
+      "Score": 1
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 29
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 30
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 45
+    },
+    {
+      "Objective": "Number",
+      "Score": 7
+    },
+    {
+      "Objective": "KilledCount",
+      "Score": 8
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "WinCount",
+      "Score": 4
+    }
+  ],
+  "san__hua": [
+    {
+      "Objective": "Enchant.wind_brust_plus_cooldown"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 351
+    }
+  ],
+  "fiiender": [
+    {
+      "Objective": "TriggerSetting.GameMode"
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "PlayTime.Min",
+      "Score": 36
+    },
+    {
+      "Objective": "KilledCount",
+      "Score": 4
+    },
+    {
+      "Objective": "Used.fox_spawn_egg"
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "GameID",
+      "Score": 278
+    },
+    {
+      "Objective": "Music",
+      "Score": 4
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 30
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 32
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 15
+    },
+    {
+      "Objective": "Number",
+      "Score": 5
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    }
+  ],
+  "256": [
+    {
+      "Objective": "aj.i",
+      "Score": 256
+    }
+  ],
+  "KnightStarling": [
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 181
+    }
+  ],
+  "3df925da-cc71-4767-b328-f56f007c5d3d": [
+    {
+      "Objective": "aj.tween_duration",
+      "Score": -4371
+    },
+    {
+      "Objective": "aj.animation_model_pillar_wool_1.frame",
+      "Score": 11
+    },
+    {
+      "Objective": "aj.id",
+      "Score": 552
+    }
+  ],
+  "Allen0121": [
+    {
+      "Objective": "TriggerSetting.GameMode"
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 273
+    }
+  ],
+  "4": [
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 43
+    },
+    {
+      "Objective": "Number",
+      "Score": 7
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 79
+    }
+  ],
+  "TsFex": [
+    {
+      "Objective": "Enchant.wind_brust_plus_cooldown"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 351
+    }
+  ],
+  "MC_TINACHENG": [
+    {
+      "Objective": "Music",
+      "Score": 3
+    },
+    {
+      "Objective": "TriggerSetting.GameMode"
+    },
+    {
+      "Objective": "Enchant.wind_brust_plus_cooldown"
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "PlayTime.Min",
+      "Score": 1
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 1
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 2
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 29
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 351
+    }
+  ],
+  "alllle999": [
+    {
+      "Objective": "Enchant.wind_brust_plus_cooldown"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 351
+    }
+  ],
+  "3": [
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 43
+    },
+    {
+      "Objective": "Number",
+      "Score": 5
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 79
+    }
+  ],
+  "ItzSkyler_": [
+    {
+      "Objective": "Music",
+      "Score": 1
+    },
+    {
+      "Objective": "TriggerSetting.GameMode"
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "PlayTime.Min",
+      "Score": 2
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 1
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 3
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 21
+    },
+    {
+      "Objective": "Number",
+      "Score": 1
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 326
+    }
+  ],
+  "LIL_DUMPLIN101": [
+    {
+      "Objective": "TriggerSetting.GameMode"
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 273
+    }
+  ],
+  "baiban0929": [
+    {
+      "Objective": "Enchant.wind_brust_plus_cooldown"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 351
+    }
+  ],
+  "Freesia_ovo": [
+    {
+      "Objective": "TriggerSetting.GameMode"
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 244
+    }
+  ],
+  "MiataGaming": [
+    {
+      "Objective": "TriggerSetting.GameMode"
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 273
+    }
+  ],
+  "1": [
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 43
+    },
+    {
+      "Objective": "Number",
+      "Score": 3
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 79
+    }
+  ],
+  "2": [
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 43
+    },
+    {
+      "Objective": "Number",
+      "Score": 6
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 79
+    }
+  ],
+  "%side_game_mode%": [
+    {
+      "Objective": "side",
+      "Score": 7,
+      "display": {
+        "extra": [
+          {
+            "color": "dark_purple",
+            "text": "双人",
+            "bold": 1
+          }
+        ],
+        "text": "游戏模式："
+      }
+    }
+  ],
+  "YuWan1": [
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "PlayTime.Min",
+      "Score": 25
+    },
+    {
+      "Objective": "Used.fox_spawn_egg"
+    },
+    {
+      "Objective": "nametag",
+      "display": {
+        "click_event": {
+          "action": "suggest_command",
+          "command": "/tell YuWan1 "
+        },
+        "insertion": "YuWan1",
+        "text": "YuWan1",
+        "hover_event": {
+          "name": "YuWan1",
+          "action": "show_entity",
+          "id": "minecraft:player",
+          "uuid": [
+            -44877063,
+            -773413,
+            -1139796049,
+            -577939899
+          ]
+        }
+      },
+      "format": {
+        "type": "minecraft:fixed",
+        "value": {
+          "extra": [
+            {
+              "color": "green",
+              "text": "鱼丸2号机"
+            }
+          ],
+          "text": ""
+        }
+      }
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "GameID",
+      "Score": 110
+    },
+    {
+      "Objective": "PlayTime.Hour",
+      "Score": 1
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 60
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 34
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 6
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "WinCount",
+      "Score": 26
+    }
+  ],
+  "$Temp": [
+    {
+      "Objective": "PlayerCount.Ready",
+      "Score": 2
+    }
+  ],
+  "Mu_1": [
+    {
+      "Objective": "TriggerSetting.GameMode"
+    },
+    {
+      "Objective": "Enchant.wind_brust_plus_cooldown"
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "PlayTime.Min",
+      "Score": 1
+    },
+    {
+      "Objective": "YanPai",
+      "Score": 7
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "GameID",
+      "Score": 351
+    },
+    {
+      "Objective": "Music",
+      "Score": 4
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 1
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 1
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 49
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "WinCount",
+      "Score": 1
+    }
+  ],
+  "Carefree_lonely": [
+    {
+      "Objective": "TriggerSetting.GameMode"
+    },
+    {
+      "Objective": "Enchant.wind_brust_plus_cooldown"
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "PlayTime.Min",
+      "Score": 33
+    },
+    {
+      "Objective": "KilledCount",
+      "Score": 4
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "GameID",
+      "Score": 349
+    },
+    {
+      "Objective": "Music",
+      "Score": 1
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 22
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 11
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 40
+    },
+    {
+      "Objective": "Number",
+      "Score": 1
+    },
+    {
+      "Objective": "Item.clock_using_time",
+      "Score": 224
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "WinCount",
+      "Score": 11
+    }
+  ],
+  "LeLeawa": [
+    {
+      "Objective": "TriggerSetting.GameMode"
+    },
+    {
+      "Objective": "Enchant.wind_brust_plus_cooldown"
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 349
+    }
+  ],
+  "OneMiku": [
+    {
+      "Objective": "TriggerSetting.GameMode"
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "PlayTime.Min",
+      "Score": 29
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 12
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 12
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 44
+    },
+    {
+      "Objective": "Number",
+      "Score": 3
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "KilledCount",
+      "Score": 2
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "WinCount",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 257
+    }
+  ],
+  "Jin__mu": [
+    {
+      "Objective": "WinCount",
+      "Score": 11
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "PlayTime.Min",
+      "Score": 42
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 25
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 16
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 5
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "KilledCount",
+      "Score": 15
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "Used.ender_dragon_spawn_egg"
+    },
+    {
+      "Objective": "GameID",
+      "Score": 192
+    }
+  ],
+  "Really_Red01": [
+    {
+      "Objective": "Used.wolf_spawn_egg"
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "PlayTime.Min",
+      "Score": 29
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 17
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 14
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 35
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "KilledCount",
+      "Score": 4
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "WinCount",
+      "Score": 5
+    },
+    {
+      "Objective": "GameID",
+      "Score": 192
+    }
+  ],
+  "zhang_zuoling": [
+    {
+      "Objective": "TriggerSetting.GameMode"
+    },
+    {
+      "Objective": "Enchant.wind_brust_plus_cooldown"
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "PlayTime.Min",
+      "Score": 33
+    },
+    {
+      "Objective": "KilledCount",
+      "Score": 11
+    },
+    {
+      "Objective": "Used.fox_spawn_egg"
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "GameID",
+      "Score": 349
+    },
+    {
+      "Objective": "PlayTime.Hour",
+      "Score": 1
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 50
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 45
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 52
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "Used.wolf_spawn_egg"
+    },
+    {
+      "Objective": "WinCount",
+      "Score": 7
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    }
+  ],
+  "CuteGirl_EggRoll": [
+    {
+      "Objective": "TriggerSetting.GameMode"
+    },
+    {
+      "Objective": "Enchant.wind_brust_plus_cooldown"
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 351
+    }
+  ],
+  "#Timer": [
+    {
+      "Objective": "BeginTimer",
+      "Score": 5
+    },
+    {
+      "Objective": "GameTime.Sec"
+    },
+    {
+      "Objective": "GameTime.Min"
+    },
+    {
+      "Objective": "EventTimer",
+      "Score": 30
+    },
+    {
+      "Objective": "EventDura.Tick"
+    },
+    {
+      "Objective": "BorderTimer",
+      "Score": 45
+    },
+    {
+      "Objective": "EventDura.Sec"
+    },
+    {
+      "Objective": "EventDura",
+      "Score": 10
+    },
+    {
+      "Objective": "LootTimer",
+      "Score": 5
+    }
+  ],
+  "CTX_kedtie": [
+    {
+      "Objective": "Enchant.wind_brust_plus_cooldown"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 351
+    }
+  ],
+  "JK137": [
+    {
+      "Objective": "TriggerSetting.GameMode"
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "PlayTime.Min",
+      "Score": 3
+    },
+    {
+      "Objective": "KilledCount",
+      "Score": 23
+    },
+    {
+      "Objective": "Used.fox_spawn_egg"
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "GameID",
+      "Score": 330
+    },
+    {
+      "Objective": "Music",
+      "Score": 2
+    },
+    {
+      "Objective": "PlayTime.Hour",
+      "Score": 1
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 31
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 28
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 3
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "WinCount",
+      "Score": 5
+    },
+    {
+      "Objective": "Used.ender_dragon_spawn_egg"
+    }
+  ],
+  "gyq2001": [
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 176
+    }
+  ],
+  "%side_settings_event_name%": [
+    {
+      "Objective": "side",
+      "Score": 2,
+      "display": {
+        "extra": [
+          {
+            "": "事件间隔："
+          },
+          {
+            "color": "aqua",
+            "text": "30",
+            "bold": 1
+          },
+          {
+            "": "s"
+          }
+        ],
+        "text": ""
+      }
+    }
+  ],
+  "_Deborn": [
+    {
+      "Objective": "TriggerSetting.GameMode"
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "PlayTime.Min",
+      "Score": 2
+    },
+    {
+      "Objective": "KilledCount",
+      "Score": 19
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "GameID",
+      "Score": 330
+    },
+    {
+      "Objective": "Music",
+      "Score": 2
+    },
+    {
+      "Objective": "PlayTime.Hour",
+      "Score": 1
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 30
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 29
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 56
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "Used.wolf_spawn_egg"
+    },
+    {
+      "Objective": "WinCount",
+      "Score": 5
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    }
+  ],
+  "%side_version%": [
+    {
+      "Objective": "side",
+      "Score": 8,
+      "display": {
+        "color": "#1BF169",
+        "extra": [
+          "0.1.7",
+          " -------"
+        ],
+        "text": "------- "
+      }
+    }
+  ],
+  "LINZHONGYING": [
+    {
+      "Objective": "TriggerSetting.GameMode"
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "PlayTime.Min",
+      "Score": 12
+    },
+    {
+      "Objective": "YanPai",
+      "Score": 3
+    },
+    {
+      "Objective": "DeathCheck",
+      "Score": 21
+    },
+    {
+      "Objective": "GameID",
+      "Score": 330
+    },
+    {
+      "Objective": "Music",
+      "Score": 3
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 8
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 5
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 8
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "WinCount",
+      "Score": 3
+    }
+  ],
+  "15150231505": [
+    {
+      "Objective": "TriggerSetting.GameMode"
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "PlayTime.Min",
+      "Score": 10
+    },
+    {
+      "Objective": "YanPai",
+      "Score": 8
+    },
+    {
+      "Objective": "KilledCount",
+      "Score": 1
+    },
+    {
+      "Objective": "TeamNumber",
+      "Score": 2
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "GameID",
+      "Score": 330
+    },
+    {
+      "Objective": "Music",
+      "Score": 1
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 4
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 3
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 11
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "WinCount",
+      "Score": 1
+    }
+  ],
+  "xingyun127": [
+    {
+      "Objective": "Music",
+      "Score": 2
+    },
+    {
+      "Objective": "TriggerSetting.GameMode"
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "PlayTime.Min",
+      "Score": 8
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 3
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 4
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 11
+    },
+    {
+      "Objective": "Number",
+      "Score": 3
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "TeamNumber",
+      "Score": 3
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 330
+    }
+  ],
+  "Offline_Anytime": [
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "PlayTime.Min",
+      "Score": 27
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 12
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 11
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 31
+    },
+    {
+      "Objective": "Number",
+      "Score": 1
+    },
+    {
+      "Objective": "KilledCount",
+      "Score": 4
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "Used.fox_spawn_egg"
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "WinCount",
+      "Score": 2
+    }
+  ],
+  "3=": [
+    {
+      "Objective": "aj.i",
+      "Score": -75
+    }
+  ],
+  "$player_count%2": [
+    {
+      "Objective": "math",
+      "Score": 1
+    }
+  ],
+  "$Motion1": [
+    {
+      "Objective": "Pos.Z",
+      "Score": 24227
+    },
+    {
+      "Objective": "Pos.Y",
+      "Score": 937221
+    },
+    {
+      "Objective": "Pos.X",
+      "Score": -15679
+    }
+  ],
+  "Fthr_LinnCdr": [
+    {
+      "Objective": "TriggerSetting.GameMode"
+    },
+    {
+      "Objective": "Enchant.wind_brust_plus_cooldown"
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "PlayTime.Min",
+      "Score": 10
+    },
+    {
+      "Objective": "KilledCount",
+      "Score": 4
+    },
+    {
+      "Objective": "TeamNumber",
+      "Score": 1
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "GameID",
+      "Score": 346
+    },
+    {
+      "Objective": "Music",
+      "Score": 2
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 12
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 9
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 14
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "Used.wolf_spawn_egg"
+    },
+    {
+      "Objective": "WinCount",
+      "Score": 3
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    }
+  ],
+  "CraftSuperkulou": [
+    {
+      "Objective": "TriggerSetting.GameMode"
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "PlayTime.Min",
+      "Score": 37
+    },
+    {
+      "Objective": "KilledCount",
+      "Score": 32
+    },
+    {
+      "Objective": "TeamNumber",
+      "Score": 3
+    },
+    {
+      "Objective": "DeathCheck",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 330
+    },
+    {
+      "Objective": "Music",
+      "Score": 3
+    },
+    {
+      "Objective": "PlayTime.Hour",
+      "Score": 2
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 84
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 76
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 24
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "Used.wolf_spawn_egg"
+    },
+    {
+      "Objective": "WinCount",
+      "Score": 13
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    }
+  ],
+  "$Motion2": [
+    {
+      "Objective": "Pos.Z",
+      "Score": -763
+    },
+    {
+      "Objective": "Pos.Y",
+      "Score": -2359
+    },
+    {
+      "Objective": "Pos.X",
+      "Score": -322
+    }
+  ],
+  "Yukai6379": [
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 181
+    }
+  ],
+  "LM1032": [
+    {
+      "Objective": "TriggerSetting.GameMode"
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "PlayTime.Min",
+      "Score": 11
+    },
+    {
+      "Objective": "YanPai",
+      "Score": 3
+    },
+    {
+      "Objective": "KilledCount",
+      "Score": 1
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "GameID",
+      "Score": 282
+    },
+    {
+      "Objective": "Music",
+      "Score": 4
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 7
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 6
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 10
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "WinCount",
+      "Score": 1
+    }
+  ],
+  "YanzengZhao": [
+    {
+      "Objective": "Enchant.wind_brust_plus_cooldown"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 351
+    }
+  ],
+  "TinaPizan": [
+    {
+      "Objective": "TriggerSetting.GameMode"
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "PlayTime.Min",
+      "Score": 19
+    },
+    {
+      "Objective": "KilledCount",
+      "Score": 7
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "GameID",
+      "Score": 327
+    },
+    {
+      "Objective": "Music",
+      "Score": 3
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 9
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 7
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 51
+    },
+    {
+      "Objective": "Number",
+      "Score": 4
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "Used.wolf_spawn_egg"
+    },
+    {
+      "Objective": "WinCount",
+      "Score": 3
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    }
+  ],
+  "bulu__boom": [
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 34
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 26
+    },
+    {
+      "Objective": "Number",
+      "Score": 2
+    },
+    {
+      "Objective": "KilledCount",
+      "Score": 9
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "WinCount",
+      "Score": 9
+    }
+  ],
+  "%side_settings_loot_time%": [
+    {
+      "Objective": "side",
+      "Score": 3,
+      "display": {
+        "extra": [
+          {
+            "": "物品间隔："
+          },
+          {
+            "color": "aqua",
+            "text": "5",
+            "bold": 1
+          },
+          {
+            "": "s"
+          }
+        ],
+        "text": ""
+      }
+    }
+  ],
+  "W1azi1": [
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 137
+    }
+  ],
+  "%side_settings_border_time%": [
+    {
+      "Objective": "side",
+      "Score": 1,
+      "display": {
+        "extra": [
+          {
+            "": "边界收缩："
+          },
+          {
+            "color": "aqua",
+            "text": "45",
+            "bold": 1
+          },
+          {
+            "": "s"
+          }
+        ],
+        "text": ""
+      }
+    }
+  ],
+  "MU23DK": [
+    {
+      "Objective": "Enchant.wind_brust_plus_cooldown"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "DeathCheck",
+      "Score": 1
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 351
+    }
+  ],
+  "#Game": [
+    {
+      "Objective": "GameStatus"
+    },
+    {
+      "Objective": "GameMode",
+      "Score": 2
+    },
+    {
+      "Objective": "CollapseTimes"
+    },
+    {
+      "Objective": "PlayerCount.Total"
+    },
+    {
+      "Objective": "PlayerCount.Alive"
+    },
+    {
+      "Objective": "EventID"
+    },
+    {
+      "Objective": "Dev"
+    },
+    {
+      "Objective": "BorderWidth",
+      "Score": 1145
+    },
+    {
+      "Objective": "PlayerCount.Out"
+    },
+    {
+      "Objective": "PlayerCount.Ready",
+      "Score": 1
+    },
+    {
+      "Objective": "MapNumber",
+      "Score": 201
+    },
+    {
+      "Objective": "PlayerCount.ReadyTeam",
+      "Score": 3
+    },
+    {
+      "Objective": "Init",
+      "Score": 1
+    },
+    {
+      "Objective": "RuleID",
+      "Score": 7
+    },
+    {
+      "Objective": "GameID",
+      "Score": 351
+    }
+  ],
+  "xiao_niuma1223": [
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 181
+    }
+  ],
+  "Syz_3467": [
+    {
+      "Objective": "Enchant.wind_brust_plus_cooldown"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 351
+    }
+  ],
+  "xiyunice": [
+    {
+      "Objective": "Enchant.wind_brust_plus_cooldown"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 351
+    }
+  ],
+  "Anemone_2": [
+    {
+      "Objective": "TriggerSetting.GameMode"
+    },
+    {
+      "Objective": "Enchant.wind_brust_plus_cooldown"
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 349
+    }
+  ],
+  "M14_MOD3": [
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 7
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 7
+    },
+    {
+      "Objective": "Number",
+      "Score": 6
+    },
+    {
+      "Objective": "KilledCount",
+      "Score": 1
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "WinCount",
+      "Score": 1
+    }
+  ],
+  "$SlimeSize": [
+    {
+      "Objective": "math"
+    }
+  ],
+  "chang____qing": [
+    {
+      "Objective": "TriggerSetting.GameMode"
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "PlayTime.Min",
+      "Score": 6
+    },
+    {
+      "Objective": "KilledCount",
+      "Score": 9
+    },
+    {
+      "Objective": "TeamNumber",
+      "Score": 1
+    },
+    {
+      "Objective": "Used.fox_spawn_egg"
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "GameID",
+      "Score": 273
+    },
+    {
+      "Objective": "PlayTime.Hour",
+      "Score": 1
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 28
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 23
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 11
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "WinCount",
+      "Score": 5
+    },
+    {
+      "Objective": "Used.ender_dragon_spawn_egg"
+    }
+  ],
+  "pandapopo114514": [
+    {
+      "Objective": "TriggerSetting.GameMode"
+    },
+    {
+      "Objective": "Enchant.wind_brust_plus_cooldown"
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 349
+    }
+  ],
+  "fishing886_": [
+    {
+      "Objective": "TriggerSetting.GameMode"
+    },
+    {
+      "Objective": "Enchant.wind_brust_plus_cooldown"
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "PlayTime.Min",
+      "Score": 16
+    },
+    {
+      "Objective": "KilledCount",
+      "Score": 119
+    },
+    {
+      "Objective": "TeamNumber",
+      "Score": 3
+    },
+    {
+      "Objective": "Used.fox_spawn_egg"
+    },
+    {
+      "Objective": "nametag",
+      "format": {
+        "type": "minecraft:fixed",
+        "value": {
+          "extra": [
+            {
+              "extra": [
+                {
+                  "color": "#D83EA4",
+                  "text": "哈"
+                },
+                {
+                  "color": "#D62FBB",
+                  "text": "基"
+                },
+                {
+                  "color": "#D51FD2",
+                  "text": "鱼"
+                },
+                {
+                  "color": "#D310E9",
+                  "text": "丸"
+                }
+              ],
+              "text": "",
+              "bold": 1
+            }
+          ],
+          "text": ""
+        }
+      }
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "GameID",
+      "Score": 351
+    },
+    {
+      "Objective": "Music",
+      "Score": 3
+    },
+    {
+      "Objective": "PlayTime.Hour",
+      "Score": 13
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 492
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 444
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 6
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "WinCount",
+      "Score": 146
+    },
+    {
+      "Objective": "Used.ender_dragon_spawn_egg"
+    },
+    {
+      "Objective": "Used.wolf_spawn_egg"
+    }
+  ],
+  "iamakiller1654": [
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "PlayTime.Min",
+      "Score": 36
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 25
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 19
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 13
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "KilledCount",
+      "Score": 10
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "Used.fox_spawn_egg"
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "WinCount",
+      "Score": 341
+    },
+    {
+      "Objective": "GameID",
+      "Score": 25
+    }
+  ],
+  "1=": [
+    {
+      "Objective": "aj.i",
+      "Score": 241
+    }
+  ],
+  "si_feng": [
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 28
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 39
+    },
+    {
+      "Objective": "Number",
+      "Score": 1
+    },
+    {
+      "Objective": "KilledCount",
+      "Score": 5
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "WinCount",
+      "Score": 5
+    }
+  ],
+  "mkjxc": [
+    {
+      "Objective": "TriggerSetting.GameMode"
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "PlayTime.Min",
+      "Score": 8
+    },
+    {
+      "Objective": "KilledCount",
+      "Score": 1
+    },
+    {
+      "Objective": "Used.fox_spawn_egg"
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "GameID",
+      "Score": 327
+    },
+    {
+      "Objective": "Music",
+      "Score": 4
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 1
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 2
+    },
+    {
+      "Objective": "PlayTime.Sec"
+    },
+    {
+      "Objective": "Number",
+      "Score": 8
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    }
+  ],
+  "Hart_GS": [
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 11
+    },
+    {
+      "Objective": "Number",
+      "Score": 1
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "WinCount",
+      "Score": 10
+    },
+    {
+      "Objective": "nametag",
+      "format": {
+        "type": "minecraft:fixed",
+        "value": {
+          "extra": [
+            {
+              "color": "green",
+              "text": "哈特小搞"
+            }
+          ],
+          "text": ""
+        }
+      }
+    }
+  ],
+  "Flowerfell_5": [
+    {
+      "Objective": "TriggerSetting.GameMode"
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "PlayTime.Min",
+      "Score": 1
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 1
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 1
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 8
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 272
+    }
+  ],
+  "aj.last_id": [
+    {
+      "Objective": "aj.id",
+      "Score": 552
+    }
+  ],
+  "Karmakinks": [
+    {
+      "Objective": "Enchant.wind_brust_plus_cooldown"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 351
+    }
+  ],
+  "pingsanyi": [
+    {
+      "Objective": "TriggerSetting.GameMode"
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "PlayTime.Min",
+      "Score": 59
+    },
+    {
+      "Objective": "KilledCount",
+      "Score": 10
+    },
+    {
+      "Objective": "TeamNumber",
+      "Score": 1
+    },
+    {
+      "Objective": "Used.fox_spawn_egg"
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "GameID",
+      "Score": 330
+    },
+    {
+      "Objective": "Music",
+      "Score": 1
+    },
+    {
+      "Objective": "PlayTime.Hour",
+      "Score": 2
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 95
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 95
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 6
+    },
+    {
+      "Objective": "Number",
+      "Score": 2
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "Used.wolf_spawn_egg"
+    },
+    {
+      "Objective": "WinCount",
+      "Score": 23
+    },
+    {
+      "Objective": "Used.ender_dragon_spawn_egg"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    }
+  ],
+  "WuMing4367": [
+    {
+      "Objective": "TriggerSetting.GameMode"
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "PlayTime.Min",
+      "Score": 4
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 1
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 2
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 24
+    },
+    {
+      "Objective": "Number",
+      "Score": 2
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 200
+    }
+  ],
+  "0=": [
+    {
+      "Objective": "aj.i",
+      "Score": 72
+    }
+  ],
+  "YuWan_SAMA": [
+    {
+      "Objective": "TriggerSetting.GameMode"
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "PlayTime.Min",
+      "Score": 24
+    },
+    {
+      "Objective": "KilledCount",
+      "Score": 30
+    },
+    {
+      "Objective": "TeamNumber",
+      "Score": 1
+    },
+    {
+      "Objective": "Used.fox_spawn_egg"
+    },
+    {
+      "Objective": "nametag",
+      "format": {
+        "type": "minecraft:fixed",
+        "value": {
+          "extra": [
+            {
+              "color": "red",
+              "text": "鱼丸SAMA"
+            }
+          ],
+          "text": ""
+        }
+      }
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "GameID",
+      "Score": 273
+    },
+    {
+      "Objective": "PlayTime.Hour",
+      "Score": 3
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 133
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 172
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 7
+    },
+    {
+      "Objective": "Number",
+      "Score": 3
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "Used.wolf_spawn_egg"
+    },
+    {
+      "Objective": "WinCount",
+      "Score": 28
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    }
+  ],
+  "yuwan1": [
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "PlayTime.Min",
+      "Score": 8
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 5
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 2
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 35
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "WinCount",
+      "Score": 3
+    },
+    {
+      "Objective": "GameID",
+      "Score": 14
+    }
+  ],
+  "MysteryService": [
+    {
+      "Objective": "Enchant.wind_brust_plus_cooldown"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 351
+    }
+  ],
+  "Steve": [
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "PlayTime.Min",
+      "Score": 8
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 1
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 47
+    },
+    {
+      "Objective": "Number",
+      "Score": 4
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 79
+    }
+  ],
+  "%side_settings_map%": [
+    {
+      "Objective": "side",
+      "Score": 5,
+      "display": {
+        "extra": [
+          {
+            "": "当前地图："
+          },
+          {
+            "color": "gold",
+            "text": "海洋",
+            "bold": 1
+          }
+        ],
+        "text": ""
+      }
+    }
+  ],
+  "home1247": [
+    {
+      "Objective": "TriggerSetting.GameMode"
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "PlayTime.Min",
+      "Score": 43
+    },
+    {
+      "Objective": "YanPai",
+      "Score": 3
+    },
+    {
+      "Objective": "KilledCount",
+      "Score": 164
+    },
+    {
+      "Objective": "TeamNumber",
+      "Score": 1
+    },
+    {
+      "Objective": "Used.fox_spawn_egg"
+    },
+    {
+      "Objective": "nametag",
+      "format": {
+        "type": "minecraft:fixed",
+        "value": {
+          "extra": [
+            {
+              "color": "yellow",
+              "text": "辰ai"
+            }
+          ],
+          "text": ""
+        }
+      }
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "GameID",
+      "Score": 330
+    },
+    {
+      "Objective": "Music",
+      "Score": 2
+    },
+    {
+      "Objective": "PlayTime.Hour",
+      "Score": 13
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 388
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 273
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 18
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "WinCount",
+      "Score": 148
+    },
+    {
+      "Objective": "Used.ender_dragon_spawn_egg"
+    },
+    {
+      "Objective": "Used.wolf_spawn_egg"
+    }
+  ],
+  "TheTaiZiY": [
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "PlayTime.Min",
+      "Score": 47
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 14
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 10
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 6
+    },
+    {
+      "Objective": "Number",
+      "Score": 2
+    },
+    {
+      "Objective": "KilledCount",
+      "Score": 7
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "Used.fox_spawn_egg"
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "WinCount",
+      "Score": 5
+    }
+  ],
+  "yiwenyou_Allen": [
+    {
+      "Objective": "Enchant.wind_brust_plus_cooldown"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 351
+    }
+  ],
+  "Seitilaer": [
+    {
+      "Objective": "TriggerSetting.GameMode"
+    },
+    {
+      "Objective": "Enchant.wind_brust_plus_cooldown"
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 349
+    }
+  ],
+  "#success": [
+    {
+      "Objective": "aj.i",
+      "Score": 1
+    }
+  ],
+  "XINGHAI_YZ": [
+    {
+      "Objective": "Enchant.wind_brust_plus_cooldown"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 351
+    }
+  ],
+  "mc_mdba": [
+    {
+      "Objective": "PlayTime.Hour",
+      "Score": 1
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "PlayTime.Min",
+      "Score": 45
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 35
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 28
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 20
+    },
+    {
+      "Objective": "Number",
+      "Score": 2
+    },
+    {
+      "Objective": "KilledCount",
+      "Score": 2
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "Used.ender_dragon_spawn_egg"
+    },
+    {
+      "Objective": "WinCount",
+      "Score": 8
+    }
+  ],
+  "indeciso05": [
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "PlayTime.Min",
+      "Score": 1
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 4
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 3
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 45
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "WinCount",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 194
+    }
+  ],
+  "MC_longwang": [
+    {
+      "Objective": "TriggerSetting.GameMode"
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "PlayTime.Min",
+      "Score": 26
+    },
+    {
+      "Objective": "KilledCount",
+      "Score": 1
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "GameID",
+      "Score": 273
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 15
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 14
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 17
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "Used.wolf_spawn_egg"
+    },
+    {
+      "Objective": "WinCount",
+      "Score": 1
+    },
+    {
+      "Objective": "Used.ender_dragon_spawn_egg"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    }
+  ],
+  "EnergySuper": [
+    {
+      "Objective": "TriggerSetting.GameMode"
+    },
+    {
+      "Objective": "Enchant.wind_brust_plus_cooldown"
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "PlayTime.Min",
+      "Score": 57
+    },
+    {
+      "Objective": "KilledCount",
+      "Score": 13
+    },
+    {
+      "Objective": "TeamNumber",
+      "Score": 3
+    },
+    {
+      "Objective": "Used.fox_spawn_egg"
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "GameID",
+      "Score": 351
+    },
+    {
+      "Objective": "PlayTime.Hour",
+      "Score": 1
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 59
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 54
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 21
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "Used.wolf_spawn_egg"
+    },
+    {
+      "Objective": "WinCount",
+      "Score": 5
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    }
+  ],
+  "luxiaoguoZZZZZ": [
+    {
+      "Objective": "WinCount",
+      "Score": 1
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "PlayTime.Min",
+      "Score": 27
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 18
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 18
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 13
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "KilledCount",
+      "Score": 1
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "Used.ender_dragon_spawn_egg"
+    },
+    {
+      "Objective": "GameID",
+      "Score": 194
+    }
+  ],
+  "fenweishi": [
+    {
+      "Objective": "TriggerSetting.GameMode"
+    },
+    {
+      "Objective": "Enchant.wind_brust_plus_cooldown"
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "PlayTime.Min",
+      "Score": 8
+    },
+    {
+      "Objective": "KilledCount",
+      "Score": 1
+    },
+    {
+      "Objective": "DeathCheck",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 349
+    },
+    {
+      "Objective": "Music",
+      "Score": 3
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 8
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 7
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 59
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "WinCount",
+      "Score": 1
+    }
+  ],
+  "Obsidian896": [
+    {
+      "Objective": "Music",
+      "Score": 3
+    },
+    {
+      "Objective": "TriggerSetting.GameMode"
+    },
+    {
+      "Objective": "Enchant.wind_brust_plus_cooldown"
+    },
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "PlayTime.Min",
+      "Score": 1
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 1
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 50
+    },
+    {
+      "Objective": "Number",
+      "Score": 3
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 347
+    }
+  ],
+  "yuwan": [
+    {
+      "Objective": "TriggerSetting.Dialog"
+    },
+    {
+      "Objective": "HP",
+      "Score": 20
+    },
+    {
+      "Objective": "PlayTime.Min",
+      "Score": 6
+    },
+    {
+      "Objective": "CompletedCount",
+      "Score": 12
+    },
+    {
+      "Objective": "DeathCount",
+      "Score": 12
+    },
+    {
+      "Objective": "PlayTime.Sec",
+      "Score": 46
+    },
+    {
+      "Objective": "Number"
+    },
+    {
+      "Objective": "Item.clock_using_time"
+    },
+    {
+      "Objective": "TriggerSetting.Map"
+    },
+    {
+      "Objective": "TriggerSetting.Rule"
+    },
+    {
+      "Objective": "DeathCheck"
+    },
+    {
+      "Objective": "LeaveGame",
+      "Score": 1
+    },
+    {
+      "Objective": "GameID",
+      "Score": 28
+    }
+  ]
+}
