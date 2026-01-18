@@ -470,9 +470,12 @@ class LPStatsPlugin(Star):
         
         nodes = self.rankings_manager.create_rank_message_nodes(rankings, bot_uin)
         
+        # 创建 Nodes 对象（包含多个 Node 的合并转发消息）
+        from astrbot.api.message_components import Nodes
+        nodes_component = Nodes(nodes=nodes)
+        
         # 发送合并转发消息
-        # 将 nodes 转换为 list[BaseMessageComponent] 类型
-        yield event.chain_result(nodes)  # type: ignore
+        yield event.chain_result([nodes_component]) 
     
     @filter.command("排行榜")
     async def rank_chinese_command(self, event: AstrMessageEvent) -> AsyncGenerator[Any, Any]:

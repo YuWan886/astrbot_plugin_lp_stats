@@ -147,14 +147,9 @@ def generate_rankings(player_scores_json_path: Path) -> Tuple[Optional[Dict[str,
                 "formatted": f"{win_rate:.1f}%"
             })
         
-        # 对各项排行榜进行排序（降序，除了死亡数按升序排）
+        # 对各项排行榜进行排序
         for key in rankings:
-            if key == "deaths":
-                # 死亡数越少越好，所以按升序排
-                rankings[key].sort(key=lambda x: x["value"])
-            else:
-                # 其他都是数值越大越好，按降序排
-                rankings[key].sort(key=lambda x: x["value"], reverse=True)
+            rankings[key].sort(key=lambda x: x["value"], reverse=True)
         
         return rankings, None
         
@@ -194,17 +189,17 @@ def save_rankings_to_json(rankings: Dict[str, Any], output_file: Path) -> Tuple[
         return False, f"保存排行榜数据时出错: {str(e)}"
 
 
-def create_rank_message_nodes(rankings: Dict[str, Any], bot_uin: int = 10000) -> List:
+def create_rank_message_nodes(rankings: Dict[str, Any], bot_uin: int = 1708197104) -> List:
     """创建群合并转发消息节点
     
     参数:
         rankings: 排行榜数据
-        bot_uin: 机器人QQ号，默认为10000
+        bot_uin: 机器人QQ号，默认为1708197104
         
     返回:
         list: Node 对象列表
     """
-    from astrbot.api.message_components import Node, Plain
+    from astrbot.api.message_components import Node, Plain, Nodes
     
     nodes = []
     
@@ -219,12 +214,7 @@ def create_rank_message_nodes(rankings: Dict[str, Any], bot_uin: int = 10000) ->
         ("win_rate", "📈 胜率排行榜", "value", True, lambda x: x["formatted"]),
     ]
     
-    # 创建 Plain 元素列表
-    plain_elements = []
-    
-    # 添加标题作为第一个 Plain 元素
-    plain_elements.append(Plain("=== 幸运之柱玩家排行榜 ===\n\n"))
-    
+    # 为每个排行榜创建独立的 Node
     for rank_key, title, value_key, descending, formatter in rank_categories:
         if rank_key not in rankings or not rankings[rank_key]:
             continue
@@ -256,16 +246,23 @@ def create_rank_message_nodes(rankings: Dict[str, Any], bot_uin: int = 10000) ->
             
             rank_text += f"{rank_symbol} {player}: {display_value}\n"
         
-        rank_text += "\n"
-        plain_elements.append(Plain(rank_text))
+        # 创建独立的 Node 用于这个排行榜
+        rank_node = Node(
+            uin=bot_uin,
+            name=title,
+            content=[Plain(rank_text)]
+        )
+        nodes.append(rank_node)
     
-    # 创建节点包含多个 Plain 元素
-    main_node = Node(
-        uin=bot_uin,
-        name="幸运之柱排行榜",
-        content=plain_elements
-    )
-    nodes.append(main_node)
+    # 如果没有任何排行榜数据，返回一个空的节点列表
+    if not nodes:
+        # 返回一个包含错误信息的节点
+        error_node = Node(
+            uin=bot_uin,
+            name="排行榜",
+            content=[Plain("暂无排行榜数据\n")]
+        )
+        nodes.append(error_node)
     
     return nodes
 
@@ -277,7 +274,6 @@ def main():
     parser = argparse.ArgumentParser(description="生成玩家排行榜")
     parser.add_argument("--input", "-i", required=True, help="player_scores_grouped.json 文件路径")
     parser.add_argument("--output", "-o", help="输出 rankings.json 文件路径")
-    parser.add_argument("--verbose", "-v", action="store_true", help="显示详细输出")
     
     args = parser.parse_args()
     
@@ -287,9 +283,6 @@ def main():
     else:
         output_path = input_path.parent / "rankings.json"
     
-    if args.verbose:
-        print(f"输入文件: {input_path}")
-        print(f"输出文件: {output_path}")
     
     # 生成排行榜
     rankings, error = generate_rankings(input_path)
@@ -298,8 +291,6 @@ def main():
         print(f"错误: {error}")
         return 1
     
-    if args.verbose and rankings:
-        print(f"成功处理 {sum(len(r) for r in rankings.values())} 条排行榜数据")
     
     # 保存到 JSON 文件
     if rankings:
@@ -307,8 +298,6 @@ def main():
         
         if not success:
             print(f"警告: {save_error}")
-        elif args.verbose:
-            print(f"排行榜数据已保存到: {output_path}")
         
         # 打印摘要
         print("\n排行榜摘要:")
